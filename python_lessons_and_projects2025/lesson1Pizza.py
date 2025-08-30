@@ -5,4 +5,4 @@ num_of_food = int(input(f"How many {PizzaSlices} are there?: "))
 
 total = num_of_food * price
 
-print (f"Your total is ${total}")
+print (f"Your total is ${total}") 
