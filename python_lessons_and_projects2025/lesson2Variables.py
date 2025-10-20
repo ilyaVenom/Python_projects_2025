@@ -30,7 +30,7 @@ if for_sale:
 else:
     print("That item is NOT aviailable")
 
-print(f"Are you a student?:/t {is_student}")
+print(f"Are you a student?:\t {is_student}")
 
 if is_student:
     print("You are a student")
