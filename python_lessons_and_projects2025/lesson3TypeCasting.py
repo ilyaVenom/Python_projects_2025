@@ -2,20 +2,21 @@
 #                          (string, integer, float, boolean)
 #                          Explicit vs Implicit
 
-name = "Bro"
-age = 21
-gpa = 1.9
+name = "ilya"
+age = 35
+gpa = 2.5
 student = True
+print("ilya segal")
 
 # print(type(name))
 # print(type(age))
 # print(type(gpa))
 # print(type(student)) 
 
-age = float(age)
+age = int(age)
 print(age)
 
-gpa = int(gpa)
+gpa = float(gpa)
 print(gpa)
 
 student = str(student)
@@ -23,3 +24,4 @@ print(student)
 
 name = bool(name)
 print(name)
+# so each lesson type it out, then commit and run changes ------

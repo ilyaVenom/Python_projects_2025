@@ -6,7 +6,3 @@ def greetings_user():
 
 # call said function
 greetings_user()
-#--- other example
-# lesson 4
-print(f"next would cover user input in python:\n")
-# 
